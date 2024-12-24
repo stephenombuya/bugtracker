@@ -1,3 +1,6 @@
+CREATE DATABASE bt_db;
+USE bt_db;
+
 -- Table for 'User'
 CREATE TABLE User (
     id INT AUTO_INCREMENT PRIMARY KEY,
